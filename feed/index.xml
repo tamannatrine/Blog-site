@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TAMANNA</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Personal Blog</description>
+	<lastBuildDate>Tue, 04 Apr 2023 11:22:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>React JS</title>
+		<link>/react-js/</link>
+					<comments>/react-js/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2023 11:17:26 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[js]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[react]]></category>
+		<category><![CDATA[react js]]></category>
+		<guid isPermaLink="false">/?p=972</guid>
+
+					<description><![CDATA[React JS is a popular JavaScript library and learning it can be a rewarding experience for web developers.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="972" class="elementor elementor-972">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-406244b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="406244b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a43fc6d" data-id="2a43fc6d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-51c76e86 elementor-widget elementor-widget-text-editor" data-id="51c76e86" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>React JS is a popular JavaScript library that is widely used for developing dynamic and high-performance user interfaces. It is an open-source library maintained by Facebook and a vibrant community of developers. If you are interested in learning React JS, here are some steps that can help you get started:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li>Learn the fundamentals of JavaScript: Before diving into React JS, it is important to have a solid understanding of JavaScript. This includes basic programming concepts like variables, functions, loops, and conditional statements. You can learn JavaScript through various online courses, tutorials, and books.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Familiarize yourself with React JS concepts: React JS has its own set of concepts and terminology that you should be familiar with. This includes components, state, props, lifecycle methods, and JSX. Understanding these concepts is essential for building React applications.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Build simple applications: Start by building simple React applications to get a feel for how the library works. You can create a basic application that displays a list of items or a form for user input. As you gain more experience, you can gradually build more complex applications.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Use online resources: There are many online resources available for learning React JS. These include official documentation, online courses, tutorials, and forums. Some popular resources include React&#8217;s official documentation, Codecademy, Udemy, and FreeCodeCamp.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Practice regularly: The more you practice building React applications, the better you will become. Try to work on a small project every day or every week to keep your skills sharp. This will help you gain confidence and expertise in using React JS.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>In conclusion, learning React JS can be a rewarding experience for web developers. By following these steps, you can gain a solid understanding of the library and start building powerful and dynamic user interfaces.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> I found a YouTube tutorial playlist that’s perfect for beginners and provides a comprehensive introduction to React JS.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=EHTWMpD6S_0\u0026list=PLzUQrEkSfIP8MQqZtSBzqu_eXgHoQOM3M\u0026index=1","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe title="&#x1f534; Complete React JS Tutorial in Hindi with 5 Projects in 2022" width="1200" height="675" src="https://www.youtube.com/embed/EHTWMpD6S_0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div></figure>
+<!-- /wp:embed -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/react-js/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chocolate Chip Cookies</title>
+		<link>/chocolate-chip-cookies/</link>
+					<comments>/chocolate-chip-cookies/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2023 20:41:56 +0000</pubDate>
+				<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[chocolate]]></category>
+		<category><![CDATA[Cookies]]></category>
+		<category><![CDATA[desserts]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[sweet]]></category>
+		<guid isPermaLink="false">/?p=701</guid>
+
+					<description><![CDATA[Easy, flourless cookies that require only 4 ingredients to make.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Ingredients (12&nbsp;servings):</p>
+
+
+
+<ul>
+<li>250g cashew butter</li>
+
+
+
+<li>100g monk fruit erythritol sweetener</li>
+
+
+
+<li>1 egg</li>
+
+
+
+<li>3 tbsp sugar-free dark chocolate chips</li>
+
+
+
+<li>Pinch of salt (optional)</li>
+
+
+
+<li>Pinch of salt (optional)</li>
+</ul>
+
+
+
+<p class="has-medium-font-size">Process:</p>
+
+
+
+<ol>
+<li>Preheat oven to 180°C / 355 °F.</li>
+
+
+
+<li>Line a baking tray with parchment paper.</li>
+
+
+
+<li>Add all ingredients, except chocolate chips, to a large mixing bowl and mix until combined.</li>
+
+
+
+<li>Fold in chocolate chips.</li>
+
+
+
+<li>Using your hands, roll and shape dough into 12 cookies. Place them on the lined baking tray.</li>
+
+
+
+<li>Transfer to oven and bake for 12 minutes or until golden brown.</li>
+
+
+
+<li>Remove cookies from oven and transfer to a cooling rack. Let cool completely before eating or storing. Enjoy!</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chocolate-chip-cookies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JavaScript</title>
+		<link>/javascript/</link>
+					<comments>/javascript/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 02 Apr 2023 15:23:53 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[js]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[web design]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome! Let's learn JavaScript with me.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-32104edd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32104edd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6cb54938" data-id="6cb54938" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-133cba48 elementor-widget elementor-widget-text-editor" data-id="133cba48" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>JavaScript is a popular programming language used for creating dynamic websites, web applications, and mobile applications. If you&#8217;re interested in learning JavaScript, you&#8217;ll be pleased to know that there are many resources available online to help you get started. Here are some tips on how to learn JavaScript:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li>Start with the basics: Before diving into complex coding concepts, it&#8217;s important to start with the basics. Familiarize yourself with the syntax and structure of Javascript, including variables, functions, and loops.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Practice coding: Learning by doing is one of the most effective ways to master a new skill. Write simple programs, experiment with different coding techniques, and build small projects to test your skills.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Learn from online resources: There are many websites, blogs, and forums dedicated to Javascript. Find reliable sources of information and tutorials to help you learn the language. Some popular websites include Codecademy, FreeCodeCamp, and W3Schools.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Use JavaScript frameworks and libraries: Frameworks and libraries like React, Vue, and jQuery can help you build complex applications more quickly and efficiently. Learn how to use them to improve your skills.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Practice problem-solving: Javascript requires a lot of problem-solving skills, so practice solving coding challenges and puzzles to improve your skills.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Learning JavaScript can be challenging, but with dedication and practice, you can master this popular programming language. Follow these tips to start your JavaScript journey and unlock a whole new world of web development opportunities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you&#8217;re looking to start learning JavaScript, I recommend following along with me as I share a great resource to get started. I found a YouTube tutorial playlist that&#8217;s perfect for beginners and provides a comprehensive introduction to JavaScript. You can find the link below and get started with me today. Let&#8217;s dive into JavaScript and start building exciting web applications!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=KGkiIBTq0y0\u0026list=PLzUQrEkSfIP80yCsIVhJFflb4U36sOnkk\u0026index=1\u0026t=57495s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe title="&#x1f534; Complete JavaScript Tutorial in Hindi in 2023" width="1200" height="675" src="https://www.youtube.com/embed/KGkiIBTq0y0?start=57495&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>I have enclosed my handwritten notes on various topics related to JavaScript in the attached file below.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:file {"id":631,"href":"/wp-content/uploads/2023/04/Javascript-HN.pdf","displayPreview":true} -->
+<div class="wp-block-file"><object class="wp-block-file__embed" data="/wp-content/uploads/2023/04/Javascript-HN.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Javascript-HN"></object><a id="wp-block-file--media-786f50a9-3d23-4664-8611-703b0189c325" href="/wp-content/uploads/2023/04/Javascript-HN.pdf">Javascript-HN</a><a href="/wp-content/uploads/2023/04/Javascript-HN.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-786f50a9-3d23-4664-8611-703b0189c325">Download</a></div>
+<!-- /wp:file -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/javascript/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

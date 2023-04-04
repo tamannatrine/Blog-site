@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recipes &#8211; TAMANNA</title>
+	<atom:link href="/category/recipes/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Personal Blog</description>
+	<lastBuildDate>Mon, 03 Apr 2023 20:50:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Chocolate Chip Cookies</title>
+		<link>/chocolate-chip-cookies/</link>
+					<comments>/chocolate-chip-cookies/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2023 20:41:56 +0000</pubDate>
+				<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[chocolate]]></category>
+		<category><![CDATA[Cookies]]></category>
+		<category><![CDATA[desserts]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[sweet]]></category>
+		<guid isPermaLink="false">/?p=701</guid>
+
+					<description><![CDATA[Easy, flourless cookies that require only 4 ingredients to make.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Ingredients (12&nbsp;servings):</p>
+
+
+
+<ul>
+<li>250g cashew butter</li>
+
+
+
+<li>100g monk fruit erythritol sweetener</li>
+
+
+
+<li>1 egg</li>
+
+
+
+<li>3 tbsp sugar-free dark chocolate chips</li>
+
+
+
+<li>Pinch of salt (optional)</li>
+
+
+
+<li>Pinch of salt (optional)</li>
+</ul>
+
+
+
+<p class="has-medium-font-size">Process:</p>
+
+
+
+<ol>
+<li>Preheat oven to 180°C / 355 °F.</li>
+
+
+
+<li>Line a baking tray with parchment paper.</li>
+
+
+
+<li>Add all ingredients, except chocolate chips, to a large mixing bowl and mix until combined.</li>
+
+
+
+<li>Fold in chocolate chips.</li>
+
+
+
+<li>Using your hands, roll and shape dough into 12 cookies. Place them on the lined baking tray.</li>
+
+
+
+<li>Transfer to oven and bake for 12 minutes or until golden brown.</li>
+
+
+
+<li>Remove cookies from oven and transfer to a cooling rack. Let cool completely before eating or storing. Enjoy!</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chocolate-chip-cookies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
